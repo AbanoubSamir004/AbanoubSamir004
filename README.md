@@ -6,7 +6,7 @@
 </div>
 <h3 align="center">An undergrad student in Computer and artificial intelligence seeking for a career in Data Science and Machine Learning</h3>
 
-- 🌱 I’m intersered in artificial inteliigence and Machine Learning**
+- 🌱 I’m intersered in **artificial inteliigence and Machine Learning**
 
 <h3 align="left"> Find me 🌎:</h3>
 <p align="left">
