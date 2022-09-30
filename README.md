@@ -6,14 +6,16 @@
 </div>
 <h3 align="center">An undergrad student in Computer and artificial intelligence seeking for a career in Data Science and Machine Learning</h3>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m intersered in artificial inteliigence and Machine Learning**
 
-- 📫 How to reach me **abanobsamir004@gmail.com**
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Find me 🌎:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abanoub-samir-2bab2918b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abanoub-samir-2bab2918b" height="30" width="40" /></a>
-<a href="https://fb.com/abanoub samir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abanoub samir" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/abanoubsamir004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abanoub samir" height="30" width="40" /></a>
+
+[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/abanobsamir004)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://linkedin.com/in/abanoub-samir-2bab2918b)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:abanobsamir004@gmail.com)
+[![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/abanoubsamir004)
+<a href="https://www.kaggle.com/abanoubsamir004"> <img src="https://user-images.githubusercontent.com/29145628/169890853-30aa8606-54cc-4e75-b93a-dc3ac6a8b37c.png" height="40" width="68"><br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
