@@ -24,9 +24,9 @@
 
 
 
-
-![Abanoub's github stats](https://github-readme-stats.vercel.app/api?username=AbanoubSamir004&show_icons=true&theme=material-legacy)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbanoubSamir004&show_icons=true&theme=material)
+<!-- ![Abanoub's github stats](https://github-readme-stats.vercel.app/api?username=AbanoubSamir004&show_icons=true&theme=material-legacy)
+ -->
 ![Abanoub's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AbanoubSamir004&theme=material-legacy&include_all_commits=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abanoubsamir004&show_icons=true&locale=en&layout=compact" alt="abanoubsamir004" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubSamir004&theme=material&langs_count=6&hide=xslt)](https://github.com/anuraghazra/github-readme-stats)
