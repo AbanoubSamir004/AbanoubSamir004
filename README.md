@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AbanoubSamir004&color=blue)
 
 </div>
-<h3 align="center">An undergrad student in Computer and artificial intelligence seeking for a career in Data Science and Machine Learning</h3>
+<h3 align="center">A fresh graduate in Computer and artificial intelligence seeking for a career in Data Science and Machine Learning</h3>
 
 - I'm from Cairo, Egypt
 - 🌱 I’m passionate about **problem solving, Data Science, Machine Learning, NLP and Artificial inteliigence**
